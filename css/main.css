@@ -1,0 +1,9 @@
+.header-con,.search-con,.carousel-con{
+    margin: 0 auto;
+    
+   
+    width: 1190px;
+}
+#index{
+    background: #f4f4f4;
+}
